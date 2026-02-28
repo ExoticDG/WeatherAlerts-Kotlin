@@ -1,3 +1,11 @@
+>[!IMPORTANT]
+> NOTICE : This project may be moving to a diffrent reposotory that is useing Rust insted of Kotlen.
+>
+> Porentialy New Reposotory : https://github.com/ExoticDG/WeatherAlerts
+
+
+
+
 # Weather Alerts
 The app that prioritizes your safety and security over profit.
 
